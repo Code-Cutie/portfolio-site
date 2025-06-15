@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+tiny_http = "0.12.0"
+ascii = "1.1.0"
+maud = "0.26.0"
+comrak = "0.26.0"
+once_cell = "1.19.0"
